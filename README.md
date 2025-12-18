@@ -1,4 +1,4 @@
-# Instalador INFOTEC SOFT
+# Instalador de pastas personalizadas
 
 Este é um simples instalador de aplicação desenvolvido em Python com a biblioteca Tkinter.
 
