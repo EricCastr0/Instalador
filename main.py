@@ -67,7 +67,7 @@ class InstallerApp:
             base_dir = os.path.join(dest_path, "INFOTEC SOFT")
             os.makedirs(base_dir, exist_ok=True)
 
-            sub_dirs = ["INSTALADOR SISTEMA", "ACCESSO REMOTO", "UTILITARIOS"]
+            sub_dirs = ["INSTALADOR SISTEMA", "ACESSO REMOTO", "UTILITARIOS"]
             dir_paths = {}
             for sub_dir in sub_dirs:
                 path = os.path.join(base_dir, sub_dir)
